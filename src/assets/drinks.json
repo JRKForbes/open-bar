@@ -1,0 +1,19 @@
+{
+  "drinks" : [
+    {
+      "type": "Lager",
+      "price": 45.00,
+      "amount": 0
+    },
+    {
+      "type": "IPA",
+      "price": 52.00,
+      "amount": 0
+    },
+    {
+      "type": "Weissbier",
+      "price": 59.00,
+      "amount": 0
+    }
+  ] 
+}
